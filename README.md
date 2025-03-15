@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: mohdseeb11@gmail.com
-- 😄 My website: https://mohdhaseehportfolio.netlify.app
+- 😄 My website: 
 - ⚡ Fun fact: Keep Learning 
   
 ### Connect with me:
